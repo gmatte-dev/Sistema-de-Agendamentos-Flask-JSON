@@ -2,6 +2,10 @@
 
 Projeto web para organizar tarefas com CRUD via API e persistência em `tarefas.json`.
 
+## Visão geral
+Este sistema permite cadastrar, editar, remover e listar tarefas. O front-end consome uma API REST do Flask e também exibe um painel com resumo da agenda (atrasadas, hoje, futuras, urgentes e distribuição por categoria). 
+
+
 ## Como rodar
 
 1. Instale as dependências:
